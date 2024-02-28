@@ -47,3 +47,26 @@
   /* 這個會改變原本的位子 */
   /* 滑入效果 */
 }
+
+
+/*
+scss---_global.scss全域常用設定
+
+body {
+  margin: 0;
+  background-color: rgb(22, 42, 77);
+}
+
+ul {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  // 
+*/

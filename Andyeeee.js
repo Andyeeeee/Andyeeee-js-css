@@ -11,5 +11,6 @@ export function scrollHandler() {
 }
 
 // window.addEventListener('scroll', scrollHandler);
+/*這裡或是index.js擇一打 */
 
 export default { scrollHandler }
