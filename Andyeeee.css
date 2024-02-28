@@ -1,0 +1,49 @@
+/* 上 */
+.move-up {
+  opacity: 0;
+  /* 初始設置為透明 */
+  transform: translatex(-50px);
+  /* 初始直botton50px往上50px效果 */
+  /* 初始設置為上移20px */
+  transition: opacity 1s, transform 1s;
+  /* 添加過渡效果 */
+}
+/* 下 */
+.move-down {
+  opacity: 0;
+  /* 初始設置為透明 */
+  transform: translateY(-50px);
+  /* 初始直botton50px往上50px效果 */
+  /* 初始設置為上移20px */
+  transition: opacity 1s, transform 1s;
+  /* 添加過渡效果 */
+}
+/*左*/
+.move-left {
+  opacity: 0;
+  /* 初始設置為透明 */
+  transform: translatex(50px);
+  /* 初始直botton50px往上50px效果 */
+  /* 初始設置為上移20px */
+  transition: opacity 1s, transform 1s;
+  /* 添加過渡效果 */
+}
+/* 右 */
+
+.move-right {
+  opacity: 0;
+  /* 初始設置為透明 */
+  transform: translatex(-50px);
+  /* 初始直botton50px往上50px效果 */
+  /* 初始設置為上移20px */
+  transition: opacity 1s, transform 1s;
+  /* 添加過渡效果 */
+}
+/* 搭配 */
+.move-in {
+  opacity: 1;
+  /* 淡入效果 */
+  transform: translatex(0px);
+  /* 這個會改變原本的位子 */
+  /* 滑入效果 */
+}
