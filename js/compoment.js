@@ -9,5 +9,5 @@ export function compoment(x, y) {
     })
 }
 
-compoment('footer.html', 'footer')
-compoment('compoment/title.html', 'title')
+// compoment('footer.html', 'footer')
+compoment('../compoment/title.html', 'title')

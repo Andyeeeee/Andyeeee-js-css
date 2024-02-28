@@ -1,9 +1,9 @@
-import { scrollHandler } from "./Andyeeee.js";
 
-import { compoment } from "./compoment.js";
+import { scrollHandler } from "./js/Andyeeee.js";
 window.addEventListener('scroll', scrollHandler);
-/*這裡或是指定html的script擇一打 */
 
+import { compoment } from "./js/compoment.js";
+/*這裡或是指定html的script擇一打 */
 
 
 export { compoment }
