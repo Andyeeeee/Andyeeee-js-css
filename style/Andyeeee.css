@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 /* 上 */
 .move-up {
   opacity: 0;

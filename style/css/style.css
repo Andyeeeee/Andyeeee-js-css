@@ -20,3 +20,10 @@ a {
 nav a {
   color: chocolate !important;
 }
+
+#footer {
+  background-color: gray;
+}
+#footer h1 {
+  margin: 0;
+}
