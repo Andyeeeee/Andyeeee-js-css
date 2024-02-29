@@ -4,7 +4,11 @@ window.addEventListener('scroll', scrollHandler);
 /*這裡或是指定html的script擇一打 */
 
 
-import { compoment } from '../js/compoment.js';
 
-export { compoment }
-// export { navbar }
+import nav from "./compoment/nav.js";
+import Resultnav from './compoment/Resultnav.js'
+// 在這裡使用 `nav` 函數
+nav();
+Resultnav();
+
+
