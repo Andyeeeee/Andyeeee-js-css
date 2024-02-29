@@ -8,8 +8,9 @@ window.addEventListener('scroll', scrollHandler);
 
 import nav from "./compoment/nav.js";
 import Resultnav from './compoment/Resultnav.js'
+import footer from './compoment/footer.js'
 // 在這裡使用 `nav` 函數
 nav();
 Resultnav();
-
+footer();
 
