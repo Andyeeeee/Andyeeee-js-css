@@ -5,7 +5,7 @@ body{
 .move-up {
   opacity: 0;
   /* 初始設置為透明 */
-  transform: translatex(-50px);
+  transform: translateY(50px);
   /* 初始直botton50px往上50px效果 */
   /* 初始設置為上移20px */
   transition: opacity 1s, transform 1s;
