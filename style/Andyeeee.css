@@ -49,6 +49,19 @@
 }
 
 
+.absolute-center{
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  transform: translate(-50% , -50%);
+}
+
+.flex-center{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
 /*
 scss---_global.scss全域常用設定
 
