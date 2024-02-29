@@ -37,7 +37,7 @@ export default function Resultnav() {
   `;
   }
 }
-// 在此處調用 `nav` 函數以在頁面加載時插入內容
+// 在此處調用 `nav` 函數以在頁面加載時插入內容1
 Resultnav();
 
 
